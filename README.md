@@ -1,2 +1,8 @@
-# deep-learning-with-tensorflow-meetup
-Deep Learning with TensorFlow Meetup in Austin, TX
+# Austin Deep Learning with TensorFlow Meetup
+
+* [Meetup Site](http://www.meetup.com/Austin-Deep-Learning-with-TensorFlow/)
+
+## Talks
+
+* [Intro to Deep Learning]()
+
