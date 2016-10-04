@@ -4,5 +4,5 @@
 
 ## Talks
 
-* [Intro to Deep Learning](https://www.dropbox.com/s/el0dx7l863s6w7j/intro-deep-learning.pdf?dl=1)
-* Intro to TensorFlow - The code, slides and jupyter notebook can be found in the intro_to_tensorflow directory above
+* [Intro to Deep Learning](https://github.com/ramhiser/austin-deep-learning-meetup/tree/master/talks/2016-08-18-intro-deep-learning)
+* [Intro to TensorFlow](https://github.com/ramhiser/austin-deep-learning-meetup/tree/master/talks/2016-09-27-intro-tensorflow)
