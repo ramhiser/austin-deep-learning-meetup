@@ -1,0 +1,5 @@
+from visualize_activations import visualize_activations
+from plot_semantic_segmentation import create_ss_plots
+
+visualize_activations()
+create_ss_plots()
