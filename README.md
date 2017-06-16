@@ -1,6 +1,6 @@
 # Austin Deep Learning Meetup
 
-* [Meetup Site](http://www.meetup.com/Austin-Deep-Learning-with-TensorFlow/)
+* [Meetup Site](https://www.meetup.com/Austin-Deep-Learning/)
 
 ## Talks
 
