@@ -6,9 +6,9 @@
 
 ### 2017
 
-* [Intro to PyTorch](https://github.com/ramhiser/austin-deep-learning-meetup/tree/master/2017-09-28-intro-pytorch)
+* [Intro to PyTorch](https://github.com/ramhiser/austin-deep-learning-meetup/tree/master/talks/2017-09-28-intro-pytorch)
 * Intro to Keras
-* [Distributed TensorFlow](https://github.com/ramhiser/austin-deep-learning-meetup/tree/master/2017-06-15-distributed-tensorflow)
+* [Distributed TensorFlow](https://github.com/ramhiser/austin-deep-learning-meetup/tree/master/talks/2017-06-15-distributed-tensorflow)
 
 ### 2016
 
