@@ -9,6 +9,7 @@
 * [Intro to PyTorch](https://github.com/ramhiser/austin-deep-learning-meetup/tree/master/talks/2017-09-28-intro-pytorch)
 * [Intro to Keras](https://www.slideshare.net/JohnRamey2/introduction-to-keras) ([code](https://github.com/ramhiser/Keras-Tutorials))
 * [Distributed TensorFlow](https://github.com/ramhiser/austin-deep-learning-meetup/tree/master/talks/2017-06-15-distributed-tensorflow)
+* [Introduction to RNNs w. Applications to NLP](https://github.com/ramhiser/austin-deep-learning-meetup/tree/master/talks/2017-12-12-intro-rnn-and-nlp)
 
 ### 2016
 
