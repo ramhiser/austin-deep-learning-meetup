@@ -7,6 +7,7 @@
 ### 2018
 
 * [Deep Learning with Text on AWS: NLP + Patents](https://docs.google.com/presentation/d/1L8EolQUPrpm8GJSX2PXfEGb4zfzp2tzypKZJOZkxiY4)
+* [Intro to Graph Convolutional Networks](https://www.experoinc.com/page/austin-deep-learning-intro-to-graph-convolutional-networks)
 
 ### 2017
 
