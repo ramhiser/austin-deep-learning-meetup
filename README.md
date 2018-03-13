@@ -4,6 +4,10 @@
 
 ## Talks
 
+### 2018
+
+* [Deep Learning with Text on AWS: NLP + Patents](https://docs.google.com/presentation/d/1L8EolQUPrpm8GJSX2PXfEGb4zfzp2tzypKZJOZkxiY4)
+
 ### 2017
 
 * [Intro to PyTorch](https://github.com/ramhiser/austin-deep-learning-meetup/tree/master/talks/2017-09-28-intro-pytorch)
